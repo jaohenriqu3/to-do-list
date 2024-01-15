@@ -1,0 +1,22 @@
+[STUDY PROJECT]
+
+Gerenciar tarefas é crucial para manter a produtividade e a organização. com isso o projeto que desenvolvi consite em um To-Do List que atua como um aliado na conquista de metas diárias, proporcionando um fluxo de trabalho mais fluido e menos estressante.
+
+- Tecnologias usadas: 
+HTML para a estruturação da página.
+CSS para o design e estilo visual.
+JavaScript puro para a lógica de programação, interatividade e manipulação do armazenamento local. 
+Além disso ultilizo a importação de elementos do Google Fonts e Bootstrap Icons como recurso de biblioteca fortalecendo ainda mais o Design do sistema 
+
+- Como funciona? 
+Ao adicionar uma nova tarefa, a aplicação armazena as informações localmente, garantindo que minha lista de afazeres esteja sempre disponível. Além disso, destaco a funcionalidade de exclusão, tornando fácil a remoção de itens concluídos ou não essenciais.
+
+- Requisitos e estilização 
+Dentro do sistema, existem requisitos de uso ao usuário, como não poder deixar o espaço de texto vazio, nem repetir suas atividades no qual foi colocadas dentro da lista, obtendo como retorno um alerta de erro transmitido atravez do propio navegador. 
+
+Animações fluidas támbem estão inclusas nesse projeto, presente nos botões, nas tarefas colocadas na lista, e na caixa de texto(input) que fica com as bordas vermelhas caso o usuário não venha a colocar nenhuma tarefa e tentar confirmar, com isso, trazemos uma experiancia mais significativa e imersiva para o usuário. 
+
+Desenvolver este projeto me proporcionou uma valiosa experiência em HTML, CSS e JavaScript, aprimorando minhas habilidades de programação e design de interfaces simples e intuitivas. támbém já consigo pensar em futuras melhorias e adição de recursos, para tornar a experiencia do sistema ainda mais personalizada e eficaz. 
+
+Link do repositório: 
+
